@@ -238,3 +238,8 @@ NODE_ENV is automatically managed by Next.js based on the execution mode.
 
 Generate Prisma Client:
 npx prisma generate
+
+# Deployemnt 
+Domains:
+civic-connect-social-gqg7.vercel.app
+
