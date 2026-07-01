@@ -1,7 +1,7 @@
 # 🚀 CivicConnect-Social
 
 <p align="center">
-  <img src="./screenshots/01-hero.png" alt="CivicConnect-Social Hero Banner" width="100%"/>
+  <img src="./screenshots/hero.png" alt="CivicConnect-Social Hero Banner" width="100%"/>
 </p>
 
 <h3 align="center">
@@ -101,16 +101,23 @@ The platform provides a structured ecosystem where users can create content, int
 
 ### Login
 
-<img src="./screenshots/02-login.png" width="100%"/>
+<img src="./screenshots/login.png" width="100%"/>
 
 ### Register
 
-<img src="./screenshots/03-register.png" width="100%"/>
+<img src="./screenshots/register.png" width="100%"/>
 
----
-## 🏠 Social Feed
+### Social Feed
 
-<img src="./screenshots/04-feed.png" width="100%"/>
+<img src="./screenshots/feed.png" width="100%"/>
+
+### Activities 
+
+<img src="./screenshots/activities.png" width="100%"/>
+
+### Accounts
+
+<img src="./screenshots/Accounts.png" width="100%"/>
 
 
 Features demonstrated:
