@@ -228,7 +228,7 @@ Create a `.env` file and configure required environment variables.
 
 Example:
 
-DATABASE_URL="postgresql://neondb_owner:npg_qd0frCpRAhE3@ep-spring-wave-at00rfd1-pooler.c-9.us-east-1.aws.neon.tech/neondb?sslmode=require&channel_binding=require"
+DATABASE_URL="postgresql://neondb_owner:npg_8xUoLnZcVKF5@ep-spring-wave-at00rfd1-pooler.c-9.us-east-1.aws.neon.tech/neondb?sslmode=require&channel_binding=require"
 NEXTAUTH_SECRET="e7a9c656a2e40811e78970ecf71f387d76db72ca49f29fd4d17bb06157a8df84"
 NEXTAUTH_URL="http://localhost:3000"
 NODE_ENV is automatically managed by Next.js based on the execution mode.
